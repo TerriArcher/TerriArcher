@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=terriarcher&label=Profile%20views&color=0e75b6&style=flat" alt="terriarcher" /> </p>
 
-- 🌱 I’m currently learning **Redux!**
+- 🌱 I’m currently learning **Ruby!**
 
 - 💬 Ask me about **react & Redux**
 
